@@ -1,2 +1,0 @@
-key = 'nEde9dHk6tNCyX14SE7KZ5hDHSGpqU9O'
-loadstring(game:HttpGet('https://api.infinitehub.net/script'))()
